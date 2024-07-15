@@ -8,6 +8,7 @@
 
 ## 🌱 I’m currently learning
 - Advanced .NET Core
+- React TS
 
 ## 💞️ I’m looking to collaborate on
 - Open Source .NET Projects
