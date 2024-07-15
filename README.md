@@ -14,8 +14,9 @@
 - Innovative Cloud-based Solutions
 
 ## 📫 How to reach me
-- Email: [alexander.gulidov@example.com](mailto:alexander.gulidov@example.com)
-- LinkedIn: [Alexander Gulidov](https://www.linkedin.com/in/alexander-gulidov)
+- Email: [derideveloper@gmail.com](mailto:derideveloper@gmail.com)
+- Telegram: [@GulidovAlexander](https://t.me/GulidovAlexander)
+- Website: [Derideveloper](http://derideveloper.ru)
 
 ## 😄 Pronouns
 - He/Him
