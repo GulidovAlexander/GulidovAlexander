@@ -22,9 +22,11 @@
 
 ## 😄 Pronouns
 - He/Him
-
+  
+<!---
 ## ⚡ Fun fact
 - I have a collection of vintage computer keyboards.
+--->
 
 ## 🛠️ Technical Skills
 - **Web Development:** React, TypeScript, ASP.NET Core
