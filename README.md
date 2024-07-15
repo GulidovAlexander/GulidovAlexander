@@ -37,11 +37,13 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=GulidovAlexander&style=flat-square)
+<!---
 ![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=GulidovAlexander&theme=react-dark)
 ![Visitor Count](https://profile-counter.glitch.me/{GulidovAlexander}/count.svg)
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GulidovAlexander)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulidovAlexander&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulidovAlexander&layout=compact)
+--->
 
 <!---
 GulidovAlexander/GulidovAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
