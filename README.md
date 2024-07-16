@@ -24,25 +24,28 @@
 
 ###
 
-<h3 align="left">👩‍💻  Aboute me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I am a novice developer, my path began with the college of Resin Software, where I participated in the WorldSkills competition. He took 2nd place in the Smolensk region in regional competitions and 8th place in Russia in qualifying competitions. The thesis was completed on the topic "DEVELOPMENT OF a SOFTWARE MODULE FOR a CLASS SCHEDULE MANAGEMENT SYSTEM FOR EDUCATIONAL ORGANIZATIONS", which is a web application for viewing, editing and generating schedules using a separate self-written service.
-<br><br>- 🔭 Participated in the WorldSkills competitions and took 2nd place in the Smolensk region.
-<br><br>- 📚 Completed a thesis on the development of a software module for managing class schedules.
-<br><br>- ⚡️ Was a FullStack TeamLead, led and helped the Binary Beasts team, which took second place. I am engaged in web development of both Frontend and Backend.
-I work full-time and study by correspondence.
+<p align="left">
+  I am a novice developer whose journey began at the Resin Software College, where I participated in the WorldSkills competition. I secured 2nd place in the Smolensk region and 8th place in Russia in the qualifying competitions. My thesis focused on "DEVELOPMENT OF a SOFTWARE MODULE FOR a CLASS SCHEDULE MANAGEMENT SYSTEM FOR EDUCATIONAL ORGANIZATIONS", a web application for viewing, editing, and generating schedules using a separate self-written service.
 </p>
 
+### Key Achievements
 
+- 🥈 Participated in the WorldSkills competitions and took 2nd place in the Smolensk region.
+- 🎓 Completed a thesis on the development of a software module for managing class schedules.
+- 🚀 Served as FullStack TeamLead for the Binary Beasts team, which took second place. Engaged in web development of both Frontend and Backend.
 
-* 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [my site](http://derideveloper.ru/developer/projects)
-* ✉️  You can contact me at [derideveloper@gmail.com](mailto:derideveloper@gmail.com)
-* 🚀 I'm currently working on [at Bafid](http://bafid.com)
-* 🧠  I'm learning National Research University "Moscow Power Engineering Institute"
-* 🤝  I'm open to collaborating on in the field of web application development, website design, API integration, performance and security optimization, as well as in other aspects of web technologies.
+### Current Status
+
+- 🌍 I'm based in Russia.
+- 🖥️ See my portfolio at [my site](http://derideveloper.ru/developer/projects).
+- ✉️ You can contact me at [derideveloper@gmail.com](mailto:derideveloper@gmail.com).
+- 🚀 I'm currently working on [at Bafid](http://bafid.com).
+- 🧠 I'm learning at National Research University "Moscow Power Engineering Institute".
+- 🤝 I'm open to collaborating on web application development, website design, API integration, performance and security optimization, and other aspects of web technologies.
 
 ###
 
@@ -143,16 +146,12 @@ I work full-time and study by correspondence.
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GulidovAlexander&theme=tokyonight-duo&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /></a>
 </div>
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GulidovAlexander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GulidovAlexander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
-
-<a href="http://www.github.com/GulidovAlexander"><img src="https://github-readme-stats.vercel.app/api?username=GulidovAlexander&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="GulidovAlexander's GitHub stats" /></a>
-
-<a href="http://www.github.com/GulidovAlexander"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GulidovAlexander&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/GulidovAlexander"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GulidovAlexander&bg_color=181824&color=ffffff&line=6366f1&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/GulidovAlexander" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulidovAlexander&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/GulidovAlexander/bafid-home" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GulidovAlexander&repo=bafid-home&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
