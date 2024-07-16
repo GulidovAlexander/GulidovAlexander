@@ -37,6 +37,7 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=GulidovAlexander&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/3311d9e6-b97e-4f7a-824d-27ab49a3d2bb.svg)](https://wakatime.com/@3311d9e6-b97e-4f7a-824d-27ab49a3d2bb)
 <!---
 ![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=GulidovAlexander&theme=react-dark)
 ![Visitor Count](https://profile-counter.glitch.me/{GulidovAlexander}/count.svg)
