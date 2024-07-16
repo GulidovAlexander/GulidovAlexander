@@ -24,17 +24,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  Aboute me</h3>
 
 ###
 
-<p align="left">Я начинающий разработчик, мой путь начался с колледжа СмолАПО, где я участвовал в соревнованиях Профессионалы (WorldSkills). Занимал 2 место по Смоленской области на региональных соревнованиях и 8 место по России в отборочных соревнованиях. Дипломная работа была выполнена по теме "РАЗРАБОТКА МОДУЛЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ СИСТЕМЫ УПРАВЛЕНИЯ РАСПИСАНИЕМ ЗАНЯТИЙ ДЛЯ УЧЕБНЫХ ОРГАНИЗАЦИЙ", представляющая собой веб-приложение для просмотра, редактирования и генерации расписания с использованием отдельного самописного сервиса.
-<br><br>- 🔭 Участвовал в соревнованиях Профессионалы (WorldSkills) и занял 2 место по Смоленской области.
-<br><br>- 📚 Выполнил дипломную работу по разработке модуля программного обеспечения для управления расписанием занятий.
-<br><br>- ⚡️ Был FullStack TeamLead, руководил и помогал команде Binary Beasts, которая заняла второе место. Занимаюсь веб-разработкой как Frontend, так и Backend.
+<p align="left">I am a novice developer, my path began with the college of Resin Software, where I participated in the WorldSkills competition. He took 2nd place in the Smolensk region in regional competitions and 8th place in Russia in qualifying competitions. The thesis was completed on the topic "DEVELOPMENT OF a SOFTWARE MODULE FOR a CLASS SCHEDULE MANAGEMENT SYSTEM FOR EDUCATIONAL ORGANIZATIONS", which is a web application for viewing, editing and generating schedules using a separate self-written service.
+<br><br>- 🔭 Participated in the WorldSkills competitions and took 2nd place in the Smolensk region.
+<br><br>- 📚 Completed a thesis on the development of a software module for managing class schedules.
+<br><br>- ⚡️ Was a FullStack TeamLead, led and helped the Binary Beasts team, which took second place. I am engaged in web development of both Frontend and Backend.
+I work full-time and study by correspondence.
 </p>
 
-Работаю полный день и учусь заочно.
+
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [my site](http://derideveloper.ru/developer/projects)
