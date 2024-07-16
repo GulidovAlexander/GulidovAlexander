@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi, My name is Alexander!</h1>
+<h1 align="center">Hi 👋, My name is Alexander!</h1>
 
 ###
 
