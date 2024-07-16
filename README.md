@@ -42,8 +42,9 @@
 - 🚀 Served as FullStack TeamLead for the Binary Beasts team, which took second place. Engaged in web development of both Frontend and Backend.
 
 ### Current Status
+<p> - 🌍 I'm based in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png " width="12"/> Russia.</p>
 
-- 🌍 I'm based in Russia.
+
 - 🖥️ See my portfolio at [my site](http://derideveloper.ru/developer/projects).
 - ✉️ You can contact me at [derideveloper@gmail.com](mailto:derideveloper@gmail.com).
 - 🚀 I'm currently working on [at Bafid](http://bafid.com).
@@ -57,19 +58,21 @@
 ###
 
 <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-	<img width="12" />
-	<img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-	<img width="12" />
-	<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+ 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+	<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+	<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+	<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+	<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 </div>
 
 ### Skills
