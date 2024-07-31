@@ -18,7 +18,7 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=gulidovalexander.gulidovalexander&" />
     <a href="https://wakatime.com/@3311d9e6-b97e-4f7a-824d-27ab49a3d2bb">
-        <img src="https://wakatime.com/badge/user/3311d9e6-b97e-4f7a-824d-27ab49a3d2bb.svg" alt="Total time coded since Jul 15 2024" />
+	    <img src="https://wakatime.com/badge/user/3311d9e6-b97e-4f7a-824d-27ab49a3d2bb.svg" alt="Total time coded since Jul 15 2024" />
     </a>
 </div>
 
