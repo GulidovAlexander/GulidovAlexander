@@ -39,7 +39,6 @@
 
 <h4>Current Status</h4>
 <ul>
-    <li>🖥️ See my portfolio at <a href="http://derideveloper.ru/developer/projects">my site</a>.</li>
     <li>✉️ You can contact me at <a href="mailto:derideveloper@gmail.com">derideveloper@gmail.com</a>.</li>
     <li>🚀 I'm currently working on <a href="http://bafid.com">at Bafid</a>.</li>
     <li>🧠 I'm learning at National Research University "Moscow Power Engineering Institute".</li>
